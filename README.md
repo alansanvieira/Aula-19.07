@@ -1,5 +1,7 @@
 # Aula-19.07
 
-Alan Santana
-Amanda Barreto
-Luan Victor
+1. Alan Santana<
+
+2. Amanda Barreto
+
+3. Luan Victor
